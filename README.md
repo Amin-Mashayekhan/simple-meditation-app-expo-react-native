@@ -14,7 +14,7 @@
   <h3 align="center">Meditation and Affirmations App</h3>
 
    <div align="center">
-     Build this project step by step with our detailed tutorial on the <a href="https://www.youtube.com/channel/UCzrpTaJWhZZNLLE_3obvE2Q/videos" target="_blank"><b>StevenCodeCraft</b></a> YouTube channel.
+     Guided by <b>StevenCodeCraft</b>.
     </div>
 </div>
 
@@ -28,13 +28,6 @@
 6. 🔗 [Links](#links)
 7. 🚀 [More](#more)
 
-## 🚨 Tutorial
-
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/channel/UCzrpTaJWhZZNLLE_3obvE2Q" target="_blank"><b>StevenCodeCraft</b></a>.
-
-If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
-
-<a href="https://www.youtube.com/channel/UCzrpTaJWhZZNLLE_3obvE2Q" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
 
 ## <a name="introduction">🤖 Introduction</a>
 
@@ -74,12 +67,6 @@ Make sure you have the following installed on your machine:
 -   [Node.js](https://nodejs.org/en)
 -   [npm](https://www.npmjs.com/) (Node Package Manager)
 
-**Cloning the Repository**
-
-```bash
-git clone https://github.com/stevenGarciaDev/simple-meditation-app-expo-react-native.git
-cd simple-meditation-app-expo-react-native
-```
 
 **Installation**
 
@@ -496,12 +483,4 @@ export default AFFIRMATION_GALLERY;
 
 Assets and constants used in the project can be found [here](https://drive.google.com/drive/folders/1ZNn-26vUkscU4Bx08BQsyY_i0HkbuzH5?usp=sharing)
 
-## <a name="more">🚀 More</a>
-
-**Advance your skills with StevenCodeCraft Courses**
-
-Enjoyed creating this project? Dive deeper into web development fundamentals with our PRO courses, offering beginner-friendly learning material. Give it a go!"
-
-<a href="https://stevencodecraft.com" target="_blank">
-    StevenCodeCraft.com
-</a>
+**Guided by StevenCodeCraft**
